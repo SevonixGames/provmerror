@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+   border: 5px solid black;
+ width: 500px;
+  margin-left: 490px;
+  border-radius: 70px 70px;
+  background-color: #333333;
+}
+
+h2 {
+  font: 50px Arial, sans-serif;
+   font-style: italic;
+  font-weight: bold;
+}
+h1 {
+  font: 60px Calibri, sans-serif;
+  font-weight: bold; 
+}
