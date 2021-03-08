@@ -10,10 +10,10 @@ h2 {
   font: 50px Arial, sans-serif;
    font-style: italic;
   font-weight: bold;
-    font-color: #ffffff
+    color: #ffffff;
 }
 h1 {
   font: 60px Calibri, sans-serif;
   font-weight: bold; 
-    font-color: #ffffff
+    color: #ffffff;
 }
